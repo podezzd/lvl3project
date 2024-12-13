@@ -14,7 +14,7 @@
 1. Клонируй репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/telegram-support-bot.git
+   https://github.com/podezzd/lvl3project
    cd telegram-support-bot
    ```
 
