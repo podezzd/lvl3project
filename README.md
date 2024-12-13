@@ -14,23 +14,16 @@
 1. Клонируй репозиторий:
 
    ```bash
-   https://github.com/podezzd/lvl3project
-   cd telegram-support-bot
+   git clone https://github.com/podezzd/lvl3project
    ```
 
-2. Установи зависимости:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. В файле `config.py` вставь свой токен от бота:
+2. В файле `config.py` вставь свой токен от бота:
 
    ```python
    TOKEN = 'ТВОЙ_ТОКЕН_ОТ_БОТА'
    ```
 
-4. Запусти бота:
+3. Запусти бота:
 
    ```bash
    python bot.py
