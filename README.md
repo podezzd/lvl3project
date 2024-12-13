@@ -56,4 +56,6 @@
 
 ## Лицензия
 
-Проект с лицензией MIT. Смотри файл [LICENSE](LICENSE).
+авторы:
+ilovemarshmallow https://t.me/ilovemarshmallow
+pawpaw4ik https://t.me/pawpaw4ik
