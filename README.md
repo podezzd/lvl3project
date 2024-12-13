@@ -57,5 +57,5 @@
 ## Лицензия
 
 авторы:
-ilovemarshmallow https://t.me/ilovemarshmallow
-pawpaw4ik https://t.me/pawpaw4ik
+- ilovemarshmallow https://t.me/ilovemarshmallow
+- pawpaw4ik https://t.me/pawpaw4ik
